@@ -1,0 +1,22 @@
+[
+   {
+      "titulo": "repasar clase 5",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "app de notas",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "calculadora",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "hacer cena",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "app de notas 2",
+      "estado": "terminada"
+   }
+]
